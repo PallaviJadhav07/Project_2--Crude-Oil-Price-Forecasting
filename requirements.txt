@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy 
+scikit-learn
+seaborn
+matplotlib
+scikit-learn
+statsmodels
+tensorflow
+altair<5
+protobuf==3.20.*
