@@ -3,7 +3,7 @@
 # In[321]:
 import streamlit as st
 import pandas as pd
-from fbprophet import Prophet
+from prophet import Prophet
 # importing libraries
 import pandas as pd
 import numpy as np
